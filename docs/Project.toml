@@ -1,0 +1,3 @@
+[deps]
+DemoPackageZW = "b5d0f5ef-753c-4a6f-bd5b-a05af8990755"
+Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
