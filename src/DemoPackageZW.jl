@@ -1,5 +1,5 @@
 module DemoPackageZW
 
-# Write your package code here.
+print_greeting() = print("Hello, Pingchuan!")
 
 end
