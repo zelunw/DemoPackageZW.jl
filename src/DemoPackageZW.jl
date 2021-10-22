@@ -1,5 +1,5 @@
 module DemoPackageZW
 
-print_greeting() = print("Hello, Pingchuan!")
+print_greeting() = printstyled("Hello, Pingchuan!"; color=:cyan)
 
 end
