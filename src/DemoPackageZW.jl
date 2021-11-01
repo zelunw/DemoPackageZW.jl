@@ -1,5 +1,5 @@
 module DemoPackageZW
 
-print_greeting() = print("Hello, Pingchuan!")
+print_greeting(io::IO =stdout) = print(io, "Hello, world!")
 
 end
